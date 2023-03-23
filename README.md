@@ -1,1 +1,1 @@
-# Makai-Rentals
+Makai Rentals connects users & partners to provide an automated water sports equipment rental solution. Due to the proprietary nature of the code, only code snippets of the project have been uploaded.
