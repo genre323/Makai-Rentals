@@ -3,18 +3,18 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Build.Framework;
 using Microsoft.Extensions.Logging;
-using Sabio.Models;
-using Sabio.Models.Domain.Reservations;
-using Sabio.Models.Requests;
-using Sabio.Models.Requests.Reservations;
-using Sabio.Services;
-using Sabio.Services.Interfaces;
-using Sabio.Web.Controllers;
-using Sabio.Web.Models.Responses;
+using Makai.Models;
+using Makai.Models.Domain.Reservations;
+using Makai.Models.Requests;
+using Makai.Models.Requests.Reservations;
+using Makai.Services;
+using Makai.Services.Interfaces;
+using Makai.Web.Controllers;
+using Makai.Web.Models.Responses;
 using System;
 using System.Data.SqlClient;
 
-namespace Sabio.Web.Api.Controllers.Reservations
+namespace Makai.Web.Api.Controllers.Reservations
 {
     [Route("api/reservations")]
     [ApiController]
