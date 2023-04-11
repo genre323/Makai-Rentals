@@ -1,14 +1,14 @@
-﻿using Sabio.Models.Domain.Reservations;
-using Sabio.Models;
-using Sabio.Models.Requests.Reservations;
+﻿using Makai.Models.Domain.Reservations;
+using Makai.Models;
+using Makai.Models.Requests.Reservations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Sabio.Models.Requests;
+using Makai.Models.Requests;
 
-namespace Sabio.Services.Interfaces
+namespace Makai.Services.Interfaces
 {
     public interface IReservationService
     {
