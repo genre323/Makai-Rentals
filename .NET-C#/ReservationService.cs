@@ -1,10 +1,10 @@
-﻿using Sabio.Data;
-using Sabio.Data.Providers;
-using Sabio.Models;
-using Sabio.Models.Domain.Reservations;
-using Sabio.Models.Requests;
-using Sabio.Models.Requests.Reservations;
-using Sabio.Services.Interfaces;
+﻿using Makai.Data;
+using Makai.Data.Providers;
+using Makai.Models;
+using Makai.Models.Domain.Reservations;
+using Makai.Models.Requests;
+using Makai.Models.Requests.Reservations;
+using Makai.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -13,7 +13,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Services.Reservations
+namespace Makai.Services.Reservations
 {
     public class ReservationService : IReservationService
     {
