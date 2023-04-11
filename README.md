@@ -1,4 +1,6 @@
-<h1>Makai Rentals connects users & partners to provide an automated water sports equipment rental solution. Due to the proprietary nature of the code, only code snippets of the project have been uploaded. Makai is an MVP and due to the proprietary nature of the code I can only provide code snippets of my code. This repository contains SQL, .NET, and React code.</h1>
+<h1>Makai Rentals </h1>
+  
+<p> Makai Rentals connects users & partners to provide an automated water sports equipment rental solution. Due to the proprietary nature of the code, only code snippets of the project have been uploaded. Makai is an MVP and due to the proprietary nature of the code I can only provide code snippets of my code. This repository contains SQL, .NET, and React code.</p>
 
 My role as a software engineer was to implement the functionality of the reservation form for Makai's products. I was tasked with developing the back-end as well as the front-end. 
 Below is a list of actions that I took to complete the project.
